@@ -74,7 +74,7 @@ PUTCHAR_PROTOTYPE {
 
 
 ## Output screen shots of Serial port utility   :
- ![exp3](https://github.com/AmruthaRajsheker/-EXPERIMENT--03-INTERFACE-IOT-BOARD-AND-CONFIGURE-USART-TO-TRANSFER-STRINGS-/assets/119475943/890b48c6-14ef-401a-8c57-1622675d3e75)
+![exp3](https://github.com/AmruthaRajsheker/-EXPERIMENT--03-INTERFACE-IOT-BOARD-AND-CONFIGURE-USART-TO-TRANSFER-STRINGS-/assets/119475943/61d16c35-f329-4857-98e0-fd4f48d6c470)
 
  
  
