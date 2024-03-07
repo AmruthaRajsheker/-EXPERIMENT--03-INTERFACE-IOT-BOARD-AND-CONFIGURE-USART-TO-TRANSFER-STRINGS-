@@ -45,10 +45,9 @@ configure in the usart 2 as asynchronous mode and set the baud rate as 115200 as
 10. Opend serial port utility and check the outpu t
 
 
-#
+
 ## STM 32 CUBE PROGRAM :
-```
-#include "main.h"
+``` #include "main.h"
 #include "stdio.h"
 void SystemClock_Config(void);
 static void MX_GPIO_Init(void);
